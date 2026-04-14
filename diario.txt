@@ -1,1 +1,2 @@
 dia 1:hoy aprendi a usar git
+Día 2: Hice mi primer commit y push a GitHub.
