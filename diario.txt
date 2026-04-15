@@ -1,2 +1,3 @@
 Día 1:hoy aprendi a usar git
 Día 2: Hice mi primer commit y push a GitHub.
+Día 3 ;sigo probando el pull gaagit commit -m "tercer cambio"git log --oneline -5
